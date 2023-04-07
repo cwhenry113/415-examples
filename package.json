@@ -10,7 +10,7 @@
   "author": "Nicholas Moran",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^2.3.0",
+    "body-parser": "^1.20.2",
     "express": "^4.16.2"
   }
 }
